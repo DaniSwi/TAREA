@@ -16,6 +16,10 @@ typedef struct {
     int altura;
 } triangulo;
 
+void test() {
+    puts("adsd");
+}
+
 
 int main() {
 
