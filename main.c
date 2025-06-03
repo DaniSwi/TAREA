@@ -11,6 +11,11 @@ typedef struct {
     char nombre[20];
 }persona;
 
+typedef struct {
+    int base;
+    int altura;
+} triangulo;
+
 
 int main() {
 
