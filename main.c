@@ -22,7 +22,8 @@ void test() {
 
 
 int main() {
-
+    test();
+    persona p;
 
     return 0;
 }
