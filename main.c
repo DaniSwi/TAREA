@@ -24,6 +24,7 @@ void test() {
 int main() {
     test();
     persona p;
+    triangulo t;
 
     return 0;
 }
